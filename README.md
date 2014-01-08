@@ -16,12 +16,8 @@ There are a total of 16 projects in this SimpleCalc.sln solution. Eight of them 
 
 Enjoy!
 
-Bret Stateham
-
-Developer Evangelist
-
-Bret.Stateham@microsoft.com
-
-BretStateham.com
-
-@BretStateham
+Bret Stateham<br/>
+Developer Evangelist<br/>
+Bret.Stateham@microsoft.com<br/>
+BretStateham.com<br/>
+@BretStateham<br/>
